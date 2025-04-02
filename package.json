@@ -2,7 +2,7 @@
   "name": "floatingclock",
   "version": "1.0.0",
   "description": "An Electron application with React",
-  "main": "./out/main/index.js",
+  "main": "./src/renderer/main.jsx",
   "author": "example.com",
   "homepage": "https://electron-vite.org",
   "scripts": {
